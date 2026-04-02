@@ -1,0 +1,6 @@
+streamlit
+pandas
+matplotlib
+seaborn
+openai>=1.0.0
+reportlab
